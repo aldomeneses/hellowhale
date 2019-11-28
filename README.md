@@ -1,2 +1,2 @@
 # hellowhale
-Hello Whale, basic docker image
+Simple Docker Demo App
